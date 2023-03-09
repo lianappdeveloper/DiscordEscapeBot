@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.35.0",
+    "nodemon": "^2.0.21"
+  },
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon ./src/index.js"
+  }
+}
